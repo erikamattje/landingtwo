@@ -1,2 +1,16 @@
-# landingtwo
-Landing Page
+# Landing Two
+
+Landing page
+
+## Tarefas
+
+O controle de tarefas foi realizado no GitHub.
+
+## Icones
+
+- :package: Novas funcionalidades <br>
+- :up: Atualizações <br>
+- :computer: Troca de computadores <br>
+- :bug: Correção de bug <br>
+- :checkered_flag: Release <br>
+
