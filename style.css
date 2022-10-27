@@ -54,7 +54,7 @@ header{
 }
 
 .cabecalho-menu-logo{
-    height: 200px;
+    height: 150px;
     margin-left: 50px;
 }
 
@@ -71,7 +71,7 @@ header{
     display: flex;
     gap: 40px;  
     font-family: var(--font-4);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 400;    
 }
 
@@ -79,14 +79,22 @@ header{
     color: #000;
 }
 
+.cabecalho-menu-info-links a:hover{
+    color: rgb(232, 139, 245);
+}
+
 .cabecalho-menu-info-icons{
     display: flex;
     gap: 40px;    
-    font-size: 1.9rem;
+    font-size: 1.6rem;
 }
 
 .cabecalho-menu-info-icons i {
     color: #000;    
+}
+
+.cabecalho-menu-info-icons i:hover {
+    color: rgb(247, 98, 72);    
 }
 
 .cabecalho-menu-info-button{
@@ -107,4 +115,46 @@ header{
     background-color: #fff;
     color: #47c1b7;
     border: 3px solid #47c1b7;    
+    transition: margin-left 4s, color 1s;
+}
+
+.conteudo {
+    width: 100%;
+    height: 100%; 
+}
+
+.conteudo-principal{
+    position: absolute;
+    top: 15rem;  
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;    
+}
+
+.conteudo-principal-info1{
+    width: 15%;    
+}
+
+.conteudo-principal-info1 p{
+    font-family: var(--font-3);
+    font-size: 60px;
+    font-weight: 400;
+    text-align: center;    
+}
+
+.conteudo-principal-imagem{
+    height: 350px;    
+}
+
+.conteudo-principal-info2{
+    width: 15%;    
+}
+
+.conteudo-principal-info2 p{
+    font-family: var(--font-3);
+    font-size: 33px;
+    font-weight: 400;
+    text-align: center; 
 }
