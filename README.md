@@ -1,6 +1,7 @@
-# Landing Two
+# The Groovie Roller Skate
 
-Landing page
+Landing page para uma comunidade de patinação.
+Projeto desenvolvido durante um desafio de uma semana.
 
 ## Tarefas
 
