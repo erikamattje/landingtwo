@@ -1,33 +1,27 @@
-*{
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css); /* import dos icons*/
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap'); /*import das fontes*/
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Poppins:wght@100;200;300;400&display=swap'); /*import das fontes*/    
+
+* {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
     text-decoration: none;
 }
 
-.container{
-    width: 100vh;
+body{ /* Reset CSS - para tirar configurações pré carregadas pelo navegador*/
+    font-size: 100%;
 }
 
-.menu {
-    position: absolute;
-    width: 100%;
-    height: 7rem;
-    top: 1rem;
-    padding: 1rem; 
-    border-top: .1rem solid #000;
-    border-bottom: .1rem solid #000;
-    background-color: aqua;
-}
-
-.menu .links{
-    position: absolute;
-    right: 4rem;
-    font-size: 1.5rem;
+:root { /* Definando as fontes em variaveis */
+    --font-1: "Righteous", cursive;
+    --font-2: "Sarala", sans-serif ;
+    --font-3: 'Gochi Hand', cursive;
+    --font-4: 'Poppins', sans-serif;
 }
 
 header{
-    width: 100%; 
-    height: 100vh; 
-    overflow: hidden; 
+    width: 100%;
+    height: 100vh;
     position: relative;
 }
