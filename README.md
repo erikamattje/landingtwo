@@ -8,9 +8,9 @@ Projeto desenvolvido durante um desafio de uma semana.
 A página esta disponivel no endereço: https://erikamattje.github.io/landingtwo/<br>
 
 Segue abaixo imagens do projeto:<br>
-<img src="images/captura1.png"><br>
+<img src="images/captura1.PNG"><br>
 
-<img src="images/captura2.png"><br>
+<img src="images/captura2.PNG"><br>
 
 
 ## Tarefas
