@@ -1,7 +1,17 @@
 # The Groovie Roller Skate
 
-Landing page para uma comunidade de patinação.
+Landing page para uma comunidade de patinação quad.<br>
 Projeto desenvolvido durante um desafio de uma semana.
+
+## Visualização
+
+A página esta disponivel no endereço: https://erikamattje.github.io/landingtwo/<br>
+
+Segue abaixo imagens do projeto:<br>
+<img src="images/captura1.png"><br>
+
+<img src="images/captura2.png"><br>
+
 
 ## Tarefas
 
